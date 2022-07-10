@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-int main(int argc, char const *argv[])
+int main()
 {
     std::cout << "Input your name: ";
     // Set the name
